@@ -12,6 +12,7 @@ We were able to collaborate relatively quick and branch ideas off of each other 
 To ensure it was a measurable goal, we referenced the site [PokeHarbor](https://www.pokeharbor.com/) and it's components, gauging what we could take for inspiration and what we could improve on to make it our own. 
 The website and layout is relatively simple, so we determined that we could follow something similar. In order to keep this project relevant, we brainstormed on improvements that we could make from the reference site 
 and wrote down the ideas pending for further discussion to assess if they could be doable in later sprints.
+Ideas that came to mind was improving upon the card component and making it more interative and "eye-catching" to the user and removing unnecessary clutter such as who posted (ie. Admin) and the estimated read time for a given user.
 
 ## What could have gone better in the previous sprint, or went poorly?
 My limited experience with React, particularly JSX {} usage and component nesting rules, contributed to slower task completion and additional debugging time due to React DOM errors (example. a cannot be a directly child of a). 
