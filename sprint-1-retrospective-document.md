@@ -27,26 +27,3 @@ I will also break up my tasks into smaller subtasks so that it's easier for me t
 React.
 Additionally, I will spend more time playing around in the lab, creating more components and experimenting with them to see what works and find any gaps in my understanding.
 This approach should reduce debugging time, prevent React DOM errors, and help ensure tasks are completed within the sprint timelines.
-
-
-
-<!-- 
-Specific
-Measurable
-Achievable
-Relevant
-Time-bound 
--->
-
-<!--
-"I'm not sure about my high-level organizations on the landing page. 
-I'd like to review how headers and footers work in relation to the main, and maybe split those out into components. 
-For the next sprint review, I want to refactor the headers, footers, and page layout and have my team approve it."
-
-"For this sprint we want to try approving pull requests one at a time into the develop branch, and briefly testing it each time before starting another one. 
-That could help with avoiding the bigger merge conflicts. 
-For this sprint, I want to test the develop branch each time a new Pull Request has passed for it."
-
-"I found it hard to implement changes from the start and had to refactor a lot of my work once I understood the concepts better. 
-For this sprint, I only want to start work on the project after I've implemented a similar solution in my lab first."
--->
